@@ -1,6 +1,6 @@
 # NASM
 
-hello.asm : Write an assembly program that outputs your name, surname, and email. 
+hello : Write an assembly program that outputs your name, surname, and email. 
 
 divisibility : Write a program in assembler, that lists all numbers between 1 and N that are divisible by 11.
 
